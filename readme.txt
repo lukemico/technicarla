@@ -1,22 +1,25 @@
 -----------------------
 # README
 -----------------------
-Browny is a one page bootstrap 3 based resume/portfolio template.
+Technicarla is a one page resume/portfolio for Carla Mico - makeup artist.
 
-
-Template Info:
+## Table of Contents
 -----------------------
-Name: 		Browny - Free Bootstrap One Page Portfolio Resume Tempalte
-Version: 	1.0
-Author: 	ThemeSINE
-Website: 	https://www.themesine.com/
 
+- [Installation](#installation)
+- [Usage](#usage)
+- [Support](#support)
+- [Contributing](#contributing)
 
-Changelog:
------------------------
-Version 1.0 14-05-2018
-- initial release 
+## Installation
 
+Clone the repo and cd into the directory:
+
+```
+git clone https://github.com/lukemico/technicarla
+
+cd technicarla
+```
 
 Credits:
 -----------------------
@@ -29,6 +32,17 @@ Credits:
 - Pexels https://www.pexels.com/
 - Unsplash https://unsplash.com/
 
-License:
+
+## Versioning
 -----------------------
-This template is under Free License - https://www.themesine.com/license/
+
+GitHub used for versioning. For the versions available, see the tags on this repository.
+
+## Authors
+-----------------------
+
+Luke Mico
+
+## License
+-----------------------
+n/a
