@@ -68,8 +68,14 @@ p {
 	font-size:14px;
 	font-family: 'Poppins', sans-serif;
 }
-img{border:none;max-width:100%; height:auto;}
-ul{
+img {
+    border:none;
+    width:90px; 
+    height:auto;
+    padding: 12px 0px 57px;
+    margin-left: 10px;
+}
+ul  {
 	padding: 0;
     margin: 0 auto;
     list-style: none;
@@ -119,7 +125,7 @@ nav.navbar.bootsnav {
 /*.navbar-brand*/
 .navbar-header a.navbar-brand,.navbar-header a.navbar-brand:hover,.navbar-header a.navbar-brand:focus {
     display: inline-block;
-    color: #FF0000;
+    color: #000;
     font-size: 20px;
     font-weight: 600;
     padding: 33px 0px 57px;
