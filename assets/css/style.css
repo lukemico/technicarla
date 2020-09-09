@@ -68,7 +68,9 @@ p {
 	font-size:14px;
 	font-family: 'Poppins', sans-serif;
 }
-img {
+img{border:none;max-width:100%; height:auto;}
+
+header-logo {
     border:none;
     width:90px; 
     height:auto;
@@ -132,6 +134,14 @@ nav.navbar.bootsnav {
     text-transform: uppercase;
 }
 /*.navbar-brand*/
+
+.header-logo {
+    border:none;
+    width:90px; 
+    padding: 10px 0px 10px;
+    margin-left: 10px;
+}
+
 
 /*.nav li*/
 nav.navbar.bootsnav ul.nav > li > a {
