@@ -5,7 +5,7 @@
 ==================================== */
 
 /*==================================
-font-family: 'Poppins', sans-serif;
+font-family: 'Montserrat', sans-serif;
 ==================================== */
 
 
@@ -38,7 +38,8 @@ font-family: 'Poppins', sans-serif;
 	box-sizing:border-box;
 }
 body{
-	font-family: 'Poppins', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+
 	font-size:16px;
 	color: #676a81;
 	background: #fff;
@@ -58,15 +59,16 @@ h1,h2,h3,h4,h5,h6 {
 	margin: 0;
 	color:#43485c;
     font-size: 16px;
-	font-family: 'Poppins', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+
 	text-transform: capitalize;
 }
 p {
 	margin: 0;
 	line-height:1.8;
 	color:#43485c;
-	font-size:14px;
-	font-family: 'Poppins', sans-serif;
+    font-size:14px;
+    font-family: 'Montserrat', sans-serif;
 }
 img{border:none;max-width:100%; height:auto;}
 
@@ -132,6 +134,9 @@ nav.navbar.bootsnav {
     font-weight: 600;
     padding: 33px 0px 57px;
     text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    /* font-family: 'Rock Salt', cursive; */
+
 }
 /*.navbar-brand*/
 
@@ -147,6 +152,7 @@ nav.navbar.bootsnav {
 nav.navbar.bootsnav ul.nav > li > a {
     font-size: 16px;
     font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
     text-transform:uppercase;
     -webkit-transition: 0.3s linear; 
     -moz-transition: 0.3s linear; 
@@ -228,6 +234,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #FF0000;}
     font-weight: 700;
     text-transform: uppercase;
     line-height: 1.5;
+    font-family: 'Rock Salt', cursive;
 }
 .header-text h2 span {color: #FF0000;}
 .header-text p {
@@ -399,6 +406,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     text-transform: uppercase;
     padding-bottom: 50px;
     border-bottom: 1px solid #e5ebf2;
+    
 }
 .single-progress-txt {
     display: flex;
